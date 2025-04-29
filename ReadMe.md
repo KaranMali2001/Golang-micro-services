@@ -74,4 +74,4 @@ This project is an experimental platform for building robust, maintainable backe
 
 If you're interested in collaborating or have feedback, feel free to reach out or create an issue.
 
-> Made with ❤️ by [Your Name]
+

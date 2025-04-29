@@ -1,0 +1,8 @@
+services:
+  account_service:
+  grapgql_service:
+  order_service:
+  product_service:
+  account_db:
+  order_db:
+  product_db:
